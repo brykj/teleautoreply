@@ -1,2 +1,2 @@
 # teleautoreply
-Tele Auto Reply
+Setting up a telegram auto reply function
